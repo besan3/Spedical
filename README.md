@@ -3,6 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
+## Collaborated flutter project
 ## Besan add main screens and core
 ## Amal add auth screens and assets
 
