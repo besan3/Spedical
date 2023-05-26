@@ -3,6 +3,8 @@
 A new Flutter project.
 
 ## Getting Started
+## Besan add main screens and core
+## Amal add auth screens and assets
 
 This project is a starting point for a Flutter application.
 
